@@ -1,0 +1,2 @@
+# 每行一个 RSS 链接（mikanani 番剧页的 RSS 订阅地址），# 开头为注释
+# https://mikanani.me/RSS/Bangumi?bangumiId=3985&subgroupid=583

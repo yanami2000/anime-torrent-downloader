@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+downloads/
+done.json
+resume_data.pkl
+*.log
