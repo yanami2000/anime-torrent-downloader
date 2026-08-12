@@ -1,6 +1,6 @@
 # torrent-dl v3
 
-无头版「RSS -> 自动下载」管道：把 mikanani 的 RSS 链接粘进 `feeds.txt`，运行
+「RSS -> 自动下载」管道：把 mikanani 的 RSS 链接粘进 `feeds.txt`，运行
 `uv run main.py`，自动扫描、分类、下载，完成后按规则收尾。
 
 ## 三步用法
